@@ -240,14 +240,14 @@ header {
   transition: 0.5s transform;
 }
 
-#icon {
+.icon {
   width: 12%;
 }
 
 .darkCard:hover {
   transform: scale(1.02);
 }
-#icon:hover {
+.icon:hover {
   transform: scale(1.3);
 }
 .footer {
