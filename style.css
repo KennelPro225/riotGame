@@ -8,7 +8,7 @@ main {
   background-repeat: no-repeat;
   background-size: 100%;
 }
-section {
+.section {
   background: rgba(222, 61, 74, 0.952);
   height: 100vh;
   width: 100%;
