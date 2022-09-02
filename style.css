@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'druk';
+  src: url(./fonts/Druk-Wide-Bold/Druk_Wide_Bold.ttf);
+}
+
 * {
   padding: 0;
   margin: 0;
@@ -45,7 +50,7 @@ main {
 div {
   color: #fff;
   font-size: 30px;
-  font-weight: bol8;
+  font-weight: bold;
 }
 .thirdHeader {
   display: flex;
@@ -89,7 +94,7 @@ header {
 .perso {
   padding: 5px 5px;
   background-color: #1f2326ef;
-  width: 170px;
+  width: 200px;
   height: 350px;
   display: flex;
   clip-path: polygon(6% 0, 100% 0%, 100% 100%, 0 100%, 0 3%);
@@ -97,7 +102,7 @@ header {
 .persoWhite {
   padding: 5px 5px;
   background-color: #fff;
-  width: 190px;
+  width: 200px;
   height: 350px;
   display: flex;
   clip-path: polygon(6% 0, 100% 0%, 100% 100%, 0 100%, 0 3%);
@@ -111,7 +116,7 @@ header {
   -webkit-text-stroke-color: #1f2326;
   transform: rotate(90deg);
   float: left;
-  position: fixed;
+  position:fixed;
   margin-top: 79px;
   margin-left: -65px;
 }
