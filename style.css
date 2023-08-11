@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'druk';
-  src: url(./fonts/Druk-Wide-Bold/Druk_Wide_Bold.ttf);
+  src: url("./fonts/Druk-Wide-Bold/Druk_Wide_Bold.ttf");
 }
 
 * {
